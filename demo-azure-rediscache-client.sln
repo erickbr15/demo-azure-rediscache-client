@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cache.AzureRedis.Web.Api", "Cache.AzureRedis.Web.Api\Cache.AzureRedis.Web.Api.csproj", "{804CA03C-071C-49FF-ABA8-D7C418126B3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cache.AzureRedis", "Cache.AzureRedis\Cache.AzureRedis.csproj", "{CE373B50-FEE1-4D4E-B5B0-052F66FC5398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804CA03C-071C-49FF-ABA8-D7C418126B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804CA03C-071C-49FF-ABA8-D7C418126B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804CA03C-071C-49FF-ABA8-D7C418126B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804CA03C-071C-49FF-ABA8-D7C418126B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE373B50-FEE1-4D4E-B5B0-052F66FC5398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE373B50-FEE1-4D4E-B5B0-052F66FC5398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE373B50-FEE1-4D4E-B5B0-052F66FC5398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE373B50-FEE1-4D4E-B5B0-052F66FC5398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE0139F-8D56-4895-A5BE-C65494BC0FA3}
+	EndGlobalSection
+EndGlobal
